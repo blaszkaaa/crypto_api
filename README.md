@@ -2,8 +2,10 @@
 ---
 # Krypto informator (Crypto informant)
 
-<img src="https://github.com/blaszkaaa/Kalkulator2/assets/58654924/802d7167-daa7-4b10-b4e4-801ec4644dc2" alt="Calculator Main View" width="150px">
-<img src="https://github.com/blaszkaaa/Kalkulator2/assets/58654924/299ccdf0-8a1e-4b11-a623-673e2e57e862" alt="Calculator History View" width="150px">
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04](https://github.com/blaszkaaa/crypto_api/assets/58654924/ed4448b9-357b-40ab-8c72-76216a179c5b)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04](https://github.com/blaszkaaa/crypto_api/assets/58654924/decef695-8e04-4cc1-926b-1190d6832c04)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04](https://github.com/blaszkaaa/crypto_api/assets/58654924/2cd7e4dc-8f73-4a6b-b8c2-373652816482)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04](https://github.com/blaszkaaa/crypto_api/assets/58654924/4f884424-08a6-4b42-ad7e-8691aba7018f)
 
 
 ## 🇵🇱 Opis PL
