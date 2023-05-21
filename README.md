@@ -3,13 +3,13 @@
 # Krypto informator (Crypto informant)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/ed4448b9-357b-40ab-8c72-76216a179c5b" width="400" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04">
-  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/163faf13-bb12-46a3-995c-5e43de1c31c8" width="400" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 20">
+  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/ed4448b9-357b-40ab-8c72-76216a179c5b" width="300" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 04">
+  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/163faf13-bb12-46a3-995c-5e43de1c31c8" width="300" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 20">
 </div>
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/7666fec4-7818-4b57-98e6-e2ee6971d32f" width="400" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 11">
-  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/dc9bcf5b-4f0d-4e9e-acc4-ef6a236b9df6" width="400" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 22">
+  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/7666fec4-7818-4b57-98e6-e2ee6971d32f" width="300" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 11">
+  <img src="https://github.com/blaszkaaa/crypto_api/assets/58654924/dc9bcf5b-4f0d-4e9e-acc4-ef6a236b9df6" width="300" alt="Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 13 02 22">
 </div>
 
 
